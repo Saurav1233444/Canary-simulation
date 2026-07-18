@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+numpy
+scipy
+pydantic
+pillow
+psutil
+python-multipart
+pandas
+openpyxl
+scikit-learn
+xgboost
